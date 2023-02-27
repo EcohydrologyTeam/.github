@@ -8,7 +8,7 @@ The principles of Ecohydrology are expressed in three sequential components:
 - Ecological (Target): The integrated processes at river basin scale can be steered in such a way as to enhance the basin's carrying capacity and its ecosystem services. This component deals with aspects of ecosystem resilience and resistance.
 - Ecological Engineering (Method): The regulation of hydrological and ecological processes, based on an integrative system approach, is thus a new tool for Integrated Water Basin Management. This method integrates the hydrological framework and ecological targets to improve water quality and ecosystem services, using engineering methods such as levees, biomanipulation, reforestation, and other management strategies.
 
-Three principle hypotheses were proposed by Zalewski et al., 1997:
+Three principal hypotheses were proposed by Zalewski et al., 1997:
 
 - Hydrological processes generally regulate biota.
 - Biota can be shaped as a tool to regulate hydrological processes.
